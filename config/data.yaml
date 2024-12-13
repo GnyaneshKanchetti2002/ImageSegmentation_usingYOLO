@@ -1,0 +1,14 @@
+train: D:\Image Segmentation (using YOLO)\data\images\train
+val: D:\Image Segmentation (using YOLO)\data\images\val
+
+nc: 8
+
+names:
+  0: other
+  1: Face
+  2: Eye
+  3: Nose
+  4: Lip
+  5: Ear
+  6: Eyebrow
+  7: Glasses
